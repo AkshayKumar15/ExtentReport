@@ -11,6 +11,7 @@ public class ExtentDemo {
 	static ExtentReports reports;
 	static ExtentTest logger;
 	
+	
 	/*
 	 *  This code i have shared with you over GITHub
 	 */
